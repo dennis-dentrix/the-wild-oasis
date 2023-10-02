@@ -1,8 +1,8 @@
 import styled from "styled-components";
 const Input = styled.input`
   border: 1px solid var(--color-grey-300);
-  background-color: var(--color-brand-600);
-  color: var(--color-brand-50);
+  background-color: var(--color-grey-0);
+  color: var(--color-grey-700);
   box-shadow: var(--shadow-sm);
   padding: 0.8rem 1.2rem;
 `;
